@@ -55,6 +55,3 @@ Simple E-commerce Web App using JSP, Servlet, MySQL
 
 
 
-### Step 1: Clone Repo
-```bash
-git clone https://github.com/YOUR_USERNAME/quickcart-ecommerce.git
