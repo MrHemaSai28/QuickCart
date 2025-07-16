@@ -1,0 +1,2 @@
+module quickcart_db {
+}
